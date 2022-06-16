@@ -1,0 +1,4 @@
+'Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass': bypass errors
+'firebase init': initialize only once
+'firebase deploy': deploy to website
+'firebase emulators:start': localhosting on 5000
