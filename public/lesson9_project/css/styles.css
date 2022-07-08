@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+    overflow: hidden;
+}
+
+body {
+
+    font-family: sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.header {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+button {
+    background: darkblue;
+    border: 2px solid darkblue;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#box {
+    background-color: aquamarine;
+}
